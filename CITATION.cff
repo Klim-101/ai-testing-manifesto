@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you reference this manifesto, please cite it as below."
+title: "Manifesto for Trustworthy AI-Driven Testing"
+version: "0.1"
+date-released: "2026-10-02"
+license: CC-BY-4.0
+authors:
+  - family-names: Izmaikov
+    given-names: Klim
+    alias: Klim-101
+repository: "https://github.com/Klim-101/ai-testing-manifesto"
+# Fill in after the first Zenodo release.
+# doi: "10.5281/zenodo.<id>"
+keywords:
+  - software testing
+  - quality assurance
+  - artificial intelligence
+  - AI agents
+  - manifesto

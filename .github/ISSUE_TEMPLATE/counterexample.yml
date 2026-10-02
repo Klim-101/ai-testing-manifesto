@@ -1,0 +1,32 @@
+name: Counterexample
+description: A case where following the manifesto still leads to a wrong or unsupported conclusion, or adds cost without adding trust.
+title: "[Counterexample] "
+labels: ["counterexample"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Describe a realistic situation. Do not include real customer names, hostnames, credentials or personal data.
+  - type: textarea
+    id: situation
+    attributes:
+      label: Situation
+      description: The context, what AI did, and what people did.
+    validations:
+      required: true
+  - type: textarea
+    id: failure
+    attributes:
+      label: What goes wrong
+      description: How following the text still allows a bad outcome, or what it costs.
+    validations:
+      required: true
+  - type: input
+    id: principles
+    attributes:
+      label: Affected values or principles
+      placeholder: "e.g. P5, P10"
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested fix (optional)

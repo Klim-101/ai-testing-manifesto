@@ -1,0 +1,36 @@
+name: Amendment
+description: Propose a change to the wording of the values or principles.
+title: "[Amendment] "
+labels: ["amendment"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem with the current text
+    validations:
+      required: true
+  - type: textarea
+    id: wording
+    attributes:
+      label: Proposed wording
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Practical example
+      description: A situation where the new wording leads to a better decision.
+    validations:
+      required: true
+  - type: input
+    id: principles
+    attributes:
+      label: Affected values or principles
+      placeholder: "e.g. V3, P2"
+  - type: checkboxes
+    id: license
+    attributes:
+      label: License
+      options:
+        - label: I agree that my contribution is licensed under CC BY 4.0.
+          required: true
