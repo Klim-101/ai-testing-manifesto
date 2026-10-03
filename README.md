@@ -1,5 +1,7 @@
 # Manifesto for Trustworthy AI-Driven Testing
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23112422.svg)](https://doi.org/10.5281/zenodo.23112422) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+
 A short, tool-agnostic set of values and principles for using AI in software testing so that results can be examined, challenged and trusted.
 
 **Status:** draft v0.1 for discussion. Counterexamples are more useful than signatures.
@@ -32,7 +34,7 @@ Text licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)]
 
 > "Manifesto for Trustworthy AI-Driven Testing" by Klim Izmaikov, v0.1, licensed under CC BY 4.0. Source: https://github.com/Klim-101/ai-testing-manifesto
 
-To cite it, see [CITATION.cff](CITATION.cff).
+To cite it, use the DOI [10.5281/zenodo.23112422](https://doi.org/10.5281/zenodo.23112422) (always resolves to the latest version) or the **Cite this repository** button, generated from [CITATION.cff](CITATION.cff).
 
 ---
 
