@@ -2,7 +2,7 @@
 
 Draft v0.1 · 2026-10-02 · Klim Izmaikov ([@Klim-101](https://github.com/Klim-101)) · [CC BY 4.0](../LICENSE)
 
-Drafted with AI assistance under the author's direction. [Русский перевод](../ru/MANIFESTO.md).
+Drafted with AI assistance; reviewed and edited by the author. [Русский перевод](../ru/MANIFESTO.md).
 
 We use AI to understand software more deeply and to help people make better decisions about its quality. Confidence in a testing result should come from evidence that anyone can examine and challenge, not from how convincing the report sounds.
 

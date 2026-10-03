@@ -28,7 +28,7 @@ When we have to choose, we prioritize:
 
 ## Author and license
 
-Created by Klim Izmaikov ([@Klim-101](https://github.com/Klim-101)), drafted with AI assistance under the author's direction. The ideas grew out of the open-source framework [QA-AI-STLC](https://github.com/Klim-101/QA-AI-STLC), but the manifesto does not depend on it.
+Created by Klim Izmaikov ([@Klim-101](https://github.com/Klim-101)), drafted with AI assistance, then reviewed and edited by the author. The ideas grew out of the open-source framework [QA-AI-STLC](https://github.com/Klim-101/QA-AI-STLC), but the manifesto does not depend on it.
 
 Text licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). You may share and adapt it, including commercially, as long as you give credit, link to the license and indicate changes. Suggested attribution:
 
